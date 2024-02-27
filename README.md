@@ -1,14 +1,14 @@
-### 👋 Welcome to my GitHub!
+# 👋 Welcome to my GitHub!
 
-### 🌴 Feel free to have a look around the place.
+## 🌴 Feel free to have a look around the place.
 
-## 👀 I'am currently seeking 2024 summer interships, opportunites, and positions
+### 👀 I'am currently seeking 2024 summer interships, opportunites, and positions
 
-## 💻 Some of my skillsets are React, Next.js, JavaScript/HTML/CSS, TypeScript, Java, Python, and TailwindCSS.
+### 💻 Some of my skillsets are React, Next.js, JavaScript/HTML/CSS, TypeScript, Java, Python, and TailwindCSS.
 
-## 🎿 During my winter spare time, I am an Alterra Mountain Company (Blue mountain/Mont Tremblant/Ikon pass), Arc'teryx, and a RedBull partnered athelete. As well as an Executive at Alpine Ski & Snowboard club.
+### 🎿 During my winter spare time, I am an Alterra Mountain Company (Blue mountain/Mont Tremblant/Ikon pass), Arc'teryx, and a RedBull partnered athelete. As well as an Executive at Alpine Ski & Snowboard club.
 
-## 🏡 A Real Estate apprentice, and Mortgage broker.
+### 🏡 A Real Estate apprentice, and Mortgage broker.
 
 <!--
 **xolah88457/xolah88457** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
