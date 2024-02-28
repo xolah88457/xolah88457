@@ -6,7 +6,7 @@
 
 ### 💻 Some of my skillsets are React, Next.js, JavaScript/HTML/CSS, TypeScript, Java, Python, and TailwindCSS.
 
-### 🎿 During my winter spare time, I am an Alterra Mountain Company (Blue mountain/Mont Tremblant/Ikon pass), Arc'teryx, and a RedBull partnered athelete. As well as an Executive at Alpine Ski & Snowboard club.
+### 🎿 During my winter spare time, I am an Alterra Mountain Company (Blue mountain/Mont Tremblant/Ikon pass), Arc'teryx, and a RedBull partnered athelete. As well as an Executive at Alpine Ski & Snowboard club. Exectutive board member of Alpine club.
 
 ### 🏡 A Real Estate apprentice, and Mortgage broker.
 
